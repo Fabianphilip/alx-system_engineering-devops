@@ -1,1 +1,1 @@
-12. File type
+13. We are symbols, and inhabit symbols
