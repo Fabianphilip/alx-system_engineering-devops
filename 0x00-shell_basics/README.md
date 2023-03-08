@@ -1,1 +1,1 @@
-14. Copy HTML files
+15. Let’s move
