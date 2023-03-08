@@ -1,1 +1,1 @@
-6. Welcome
+7. Betty in my first directory
