@@ -2,8 +2,8 @@
 # Seting up my client config file
 
 
-file { 'etc/ssh/ssh_config':
-	ensure => present.
+file { 'ect/ssh/ssh_config':
+	ensure => present,
 
 content =>"
 
@@ -11,4 +11,5 @@ content =>"
 	host*
 	IdentityFile ~/.ssh/school
 	passwordAuthentication no
+	",
 }
